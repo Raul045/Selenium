@@ -1,0 +1,2 @@
+Prueba1,ejemplo1,ejemplo1@gmail.com,20,Hombre,87712778,Mexico
+jala,sijalo,jalo@gmail.com,20,Mujer,8745784,Mexico
